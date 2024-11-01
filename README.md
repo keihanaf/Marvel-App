@@ -104,7 +104,7 @@ To run the application locally, follow these steps:
 
 2. Navigate to the project directory:
    ```bash
-   cd Marvel-App
+   cd marvel-app
    ```
 
 3. Install the dependencies:
